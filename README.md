@@ -28,9 +28,9 @@ Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-Name: N.KANISHKA
+# Name: N.KANISHKA
 
-Register Number: 212225230127
+# Register Number: 212225230127
 
 ## Program:
 ```
